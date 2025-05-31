@@ -1,3 +1,4 @@
+<img src="software-engineer-desenvolvedor.png" alt="Banner" />
 # About Me:
 AWS Certified Developer | Backend Engineer | Node.js & TypeScript | DevOps <br>
 
