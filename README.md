@@ -7,12 +7,12 @@ Back-end Developer specialized in Node.js and AWS with proven experience in buil
 Currently working as a freelancer, delivering robust and efficient solutions to clients across multiple industries, focusing on performance, security, and usability.
 
 🚀 Core skills:
-- Node.js, Typescript, Express.js
-- PostgreSQL, MySQL, MongoDB
+- Node.js, Typescript, Express.js, Fastify
+- DynamoDB, PostgreSQL, MySQL, MongoDB
 - REST APIs, GraphQL
 - Docker, AWS (Lambda, EC2, S3, DynamoDB, RDS, and more)
 - Automated testing (Jest, Unit, Integration, E2E)
-- Clean Code, SOLID principles, DevOps, CI/CD
+- Clean Code, Clean Architecture, SOLID principles, DevOps, CI/CD
 
 
 Email: leotireck@gmail.com
