@@ -1,5 +1,4 @@
 <img src="software-engineer-desenvolvedor.png" alt="Banner" />
-About Me: 
 AWS Certified Developer | Backend Engineer | Node.js & TypeScript | DevOps <br>
 
 Back-end Developer specialized in Node.js and AWS with proven experience in building scalable, high-performance applications. Skilled in designing and deploying cloud-native architectures using Docker and over 30 AWS services. Strong background in API optimization, secure cloud infrastructure, and Agile software development.
@@ -7,10 +6,10 @@ Back-end Developer specialized in Node.js and AWS with proven experience in buil
 Currently working as a freelancer, delivering robust and efficient solutions to clients across multiple industries, focusing on performance, security, and usability.
 
 🚀 Core skills:
-- Node.js, JavaScript, Typescript, Express.js, Fastify, Next.js, React
+- Node.js, JavaScript, Typescript,Nest.js, Express.js, Fastify, Next.js, React
 - DynamoDB, PostgreSQL, MySQL, MongoDB
 - REST APIs, GraphQL
-- Docker, AWS (Lambda, EC2, S3, DynamoDB, RDS, and more)
+- Docker, AWS (Lambda, EC2, S3, DynamoDB, RDS, and more), Azure
 - Automated testing (Jest, Unit, Integration, E2E)
 - Clean Code, Clean Architecture, SOLID principles, DevOps, CI/CD
 
