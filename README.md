@@ -6,7 +6,7 @@ Back-end Developer specialized in Node.js and AWS with proven experience in buil
 Currently working as a freelancer, delivering robust and efficient solutions to clients across multiple industries, focusing on performance, security, and usability.
 
 🚀 Core skills:
-- Node.js, JavaScript, Typescript,Nest.js, Express.js, Fastify, Next.js, React
+- Node.js, JavaScript, Typescript, Nest.js, Express.js, Fastify, Next.js, React
 - DynamoDB, PostgreSQL, MySQL, MongoDB
 - REST APIs, GraphQL
 - Docker, AWS (Lambda, EC2, S3, DynamoDB, RDS, and more), Azure
