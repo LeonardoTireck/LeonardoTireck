@@ -14,8 +14,7 @@ Currently working as a freelancer, delivering robust and efficient solutions to 
 - Clean Code, Clean Architecture, SOLID principles, DevOps, CI/CD
 
 
-Email: leotireck@gmail.com
-Phone: +55 47 99200 0622
+
 
 
 
