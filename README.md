@@ -7,6 +7,7 @@ Currently working as a freelancer, delivering robust and efficient solutions to 
 
 🚀 Core skills:
 - Node.js, JavaScript, Typescript, Nest.js, Express.js, Fastify, Next.js, React
+- Spec-Driven-Development, Skills, MCPs
 - DynamoDB, PostgreSQL, MySQL, MongoDB
 - REST APIs, GraphQL
 - Docker, AWS (Lambda, EC2, S3, DynamoDB, RDS, and more), Azure
