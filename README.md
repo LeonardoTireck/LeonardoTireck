@@ -61,13 +61,6 @@ I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **T
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-## GitHub at a glance
-
-<p align="center">
-  <img height="165" alt="Leonardo's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=LeonardoTireck&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="165" alt="Leonardo's most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LeonardoTireck&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-</p>
-
 ## Let's connect
 
 If you'd like to talk about Go, Node.js, backend engineering, cloud architecture, APIs, or building dependable software, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/leonardo-tireck/?locale=en_US) or by [email](mailto:leotireck@gmail.com).
