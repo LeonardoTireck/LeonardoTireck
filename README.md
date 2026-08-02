@@ -6,7 +6,7 @@
 <h3 align="center">Full-Stack Developer · Go, TypeScript & Cloud Engineering</h3>
 
 <p align="center">
-  I build reliable backend and cloud software with Go, TypeScript, Node.js, and AWS.<br />
+  I build reliable backend and cloud software with Go, TypeScript, Node.js, AWS, and Azure.<br />
   Go is my main technical focus today; TypeScript powers my day-to-day product work.<br />
   I care about clean architecture, thoughtful testing, performance, and software that is easy to evolve.
 </p>
@@ -25,10 +25,10 @@
 
 ## About me
 
-I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **TypeScript and Node.js** across the product stack. Alongside that work, my main technical focus is **Go** for backend and cloud systems, with an emphasis on simple, efficient, maintainable software.
+I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **TypeScript, Node.js, and Azure** across the product stack. Alongside that work, my main technical focus is **Go** for backend and cloud systems, with an emphasis on simple, efficient, maintainable software.
 
-- 🐹 **Current focus:** Go for backend services, cloud tooling, concurrency, and performance
-- 💼 **At work:** TypeScript, Node.js, and full-stack product delivery
+- 🎯 **Current focus:** Go for backend services, cloud tooling, concurrency, and performance
+- 💼 **At work:** TypeScript, Node.js, Azure, and full-stack product delivery
 - ☁️ **AWS Certified Developer – Associate (DVA-C02)** — issued May 2025, valid through May 2028
 - 🧱 Trained in **Clean Code & Clean Architecture**, including TDD, DDD, CQRS, Docker, and design patterns
 - 🧠 Also building experience with **C#, .NET, data structures, and algorithms**
@@ -51,6 +51,7 @@ I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **T
 ### Cloud, data & delivery
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -63,7 +64,7 @@ I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **T
 
 - Building idiomatic, production-minded backend services in Go
 - Deepening Go concurrency, performance, testing, and observability
-- Shipping TypeScript and Node.js product work at Coopercompany
+- Shipping TypeScript and Node.js product work on Azure at Coopercompany
 - Applying Clean Architecture, SOLID, TDD, and pragmatic design patterns
 - Improving delivery through containers, CI/CD, observability, and automation
 
