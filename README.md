@@ -3,10 +3,11 @@
 </p>
 
 <h1 align="center">Hi, I'm Leonardo Tireck 👋</h1>
-<h3 align="center">Full-Stack Developer · Backend & Cloud Engineering</h3>
+<h3 align="center">Full-Stack Developer · Go, TypeScript & Cloud Engineering</h3>
 
 <p align="center">
-  I build reliable APIs and cloud-native applications with TypeScript, Node.js, and AWS.<br />
+  I build reliable backend and cloud software with Go, TypeScript, Node.js, and AWS.<br />
+  Go is my main technical focus today; TypeScript powers my day-to-day product work.<br />
   I care about clean architecture, thoughtful testing, performance, and software that is easy to evolve.
 </p>
 
@@ -24,11 +25,13 @@
 
 ## About me
 
-I'm a Full-Stack Developer at **Coopercompany**, with a strong focus on backend and cloud engineering. My main toolkit is **Node.js, TypeScript, and AWS**, and I also work across the stack when a product needs it.
+I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **TypeScript and Node.js** across the product stack. Alongside that work, my main technical focus is **Go** for backend and cloud systems, with an emphasis on simple, efficient, maintainable software.
 
+- 🐹 **Current focus:** Go for backend services, cloud tooling, concurrency, and performance
+- 💼 **At work:** TypeScript, Node.js, and full-stack product delivery
 - ☁️ **AWS Certified Developer – Associate (DVA-C02)** — issued May 2025, valid through May 2028
 - 🧱 Trained in **Clean Code & Clean Architecture**, including TDD, DDD, CQRS, Docker, and design patterns
-- 🔭 Currently deepening my work with **C#, .NET, data structures, and algorithms**
+- 🧠 Also building experience with **C#, .NET, data structures, and algorithms**
 - 📍 Based in Florianópolis, Brazil
 - 🗣️ Portuguese and English
 
@@ -36,6 +39,7 @@ I'm a Full-Stack Developer at **Coopercompany**, with a strong focus on backend 
 
 ### Backend & APIs
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -57,10 +61,11 @@ I'm a Full-Stack Developer at **Coopercompany**, with a strong focus on backend 
 
 ## What I'm focused on
 
-- Designing secure, maintainable APIs and cloud-native services
+- Building idiomatic, production-minded backend services in Go
+- Deepening Go concurrency, performance, testing, and observability
+- Shipping TypeScript and Node.js product work at Coopercompany
 - Applying Clean Architecture, SOLID, TDD, and pragmatic design patterns
 - Improving delivery through containers, CI/CD, observability, and automation
-- Expanding into the .NET ecosystem while continuing to sharpen TypeScript and Node.js
 
 ## Selected work
 
@@ -81,4 +86,4 @@ I'm a Full-Stack Developer at **Coopercompany**, with a strong focus on backend 
 
 ## Let's connect
 
-If you'd like to talk about backend engineering, cloud architecture, APIs, or building dependable software, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/leonardo-tireck/?locale=en_US) or by [email](mailto:leotireck@gmail.com).
+If you'd like to talk about Go, backend engineering, cloud architecture, APIs, or building dependable software, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/leonardo-tireck/?locale=en_US) or by [email](mailto:leotireck@gmail.com).
