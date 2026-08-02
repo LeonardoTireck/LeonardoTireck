@@ -64,8 +64,8 @@ I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **T
 ## GitHub at a glance
 
 <p align="center">
-  <img height="165" alt="Leonardo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LeonardoTireck&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="165" alt="Leonardo's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTireck&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+  <img height="165" alt="Leonardo's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=LeonardoTireck&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img height="165" alt="Leonardo's most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LeonardoTireck&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 </p>
 
 ## Let's connect
