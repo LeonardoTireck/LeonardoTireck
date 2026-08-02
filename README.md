@@ -1,28 +1,73 @@
-<img src="software-engineer-desenvolvedor.png" alt="Banner" />
-AWS Certified Developer | Backend Engineer | Node.js & TypeScript | DevOps <br>
+<p align="center">
+  <img src="software-engineer-desenvolvedor.png" alt="Leonardo Tireck — Software Engineer" width="100%" />
+</p>
 
-Back-end Developer specialized in Node.js and AWS with proven experience in building scalable, high-performance applications. Skilled in designing and deploying cloud-native architectures using Docker and over 30 AWS services. Strong background in API optimization, secure cloud infrastructure, and Agile software development.
+<h1 align="center">Hi, I'm Leonardo Tireck 👋</h1>
+<h3 align="center">Full-Stack Developer · Go, TypeScript & Cloud Engineering</h3>
 
-Currently working at CooperCompany, delivering robust and efficient solutions to clients across multiple industries, focusing on performance, security, and usability.
+<p align="center">
+  I build reliable backend and cloud software with Go, TypeScript, Node.js, AWS, and Azure.<br />
+  Go is my main technical focus today; TypeScript powers my day-to-day product work.<br />
+  I care about software that evolves easily.
+</p>
 
-🚀 Core skills:
-- Node.js, JavaScript, Typescript, Nest.js, Express.js, Fastify, Next.js, React
-- Spec-Driven-Development, Skills, MCPs
-- DynamoDB, PostgreSQL, MySQL, MongoDB
-- REST APIs, GraphQL
-- Docker, AWS (Lambda, EC2, S3, DynamoDB, RDS, and more), Azure
-- Automated testing (Jest, Unit, Integration, E2E)
-- Clean Code, Clean Architecture, SOLID principles, DevOps, CI/CD
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-tireck/?locale=en_US">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:leotireck@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-tireck/details/certifications/">
+    <img alt="AWS Certified Developer Associate" src="https://img.shields.io/badge/AWS-Certified_Developer-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  </a>
+</p>
 
+## About me
 
+I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **TypeScript, Node.js, React, and Azure** across the product stack. Alongside that work, my main technical focus is **Go** for backend and cloud systems, with an emphasis on simple, efficient, maintainable software.
 
+- 🎯 **Current focus:** Go for backend services, cloud tooling, concurrency, and performance
+- 💼 **At work:** TypeScript, Node.js, React, Azure, and full-stack product delivery
+- 🔥 **Always:** Improving delivery through containers, CI/CD, observability, and automation
+- ☁️ **AWS Certified Developer – Associate (DVA-C02)**
+- 🧱 Trained in **Clean Code & Clean Architecture**, including TDD, DDD, CQRS, Docker, RabbitMQ, and design patterns
+- 🧠 Also building experience with **C#, .NET, data structures, and algorithms**
+- 📍 Based in Florianópolis, Brazil
+- 🗣️ Portuguese and English (C1)
 
+## Engineering toolkit
 
+### Languages, frameworks & APIs
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-tireck/?locale=en_US) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTireck&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### Cloud, data & delivery
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+## GitHub at a glance
+
+<p align="center">
+  <img height="165" alt="Leonardo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LeonardoTireck&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img height="165" alt="Leonardo's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTireck&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+</p>
+
+## Let's connect
+
+If you'd like to talk about Go, Node.js, backend engineering, cloud architecture, APIs, or building dependable software, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/leonardo-tireck/?locale=en_US) or by [email](mailto:leotireck@gmail.com).
