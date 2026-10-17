@@ -6,7 +6,6 @@
 <h3 align="center">Full-Stack Developer · Go, Rust, TypeScript & Cloud Engineering</h3>
 
 <p align="center">
-  I build reliable backend and cloud software with Go, TypeScript, Node.js, AWS, and Azure.<br />
   Go and Rust are my current technical focus; TypeScript powers my day-to-day product work.<br />
   I care about software that evolves easily.
 </p>
