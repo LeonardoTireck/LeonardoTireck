@@ -11,6 +11,9 @@
 </p>
 
 <p align="center">
+  <a href="https://leonardotireck.com">
+    <img alt="Personal website: leonardotireck.com" src="https://img.shields.io/badge/Website-Visit-181717?style=for-the-badge" />
+  </a>
   <a href="https://www.linkedin.com/in/leonardo-tireck/?locale=en_US">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -65,4 +68,6 @@ I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **T
 
 ## Let's connect
 
-If you'd like to talk about Go, Node.js, backend engineering, cloud architecture, APIs, or building dependable software, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/leonardo-tireck/?locale=en_US) or by [email](mailto:leotireck@gmail.com).
+Get to know me at [leonardotireck.com](https://leonardotireck.com).
+
+If you'd like to talk about Go, Rust, Node.js, AI agents, backend engineering, cloud architecture, APIs, or building dependable software, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/leonardo-tireck/?locale=en_US) or by [email](mailto:leotireck@gmail.com).
