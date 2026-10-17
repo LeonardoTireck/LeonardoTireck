@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">Hi, I'm Leonardo Tireck 👋</h1>
-<h3 align="center">Full-Stack Developer · Go, TypeScript & Cloud Engineering</h3>
+<h3 align="center">Full-Stack Developer · Go, Rust, TypeScript & Cloud Engineering</h3>
 
 <p align="center">
   I build reliable backend and cloud software with Go, TypeScript, Node.js, AWS, and Azure.<br />
-  Go is my main technical focus today; TypeScript powers my day-to-day product work.<br />
+  Go and Rust are my current technical focus; TypeScript powers my day-to-day product work.<br />
   I care about software that evolves easily.
 </p>
 
@@ -27,7 +27,7 @@
 
 I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **TypeScript, Node.js, React, and Azure** across the product stack. Alongside that work, my main technical focus is **Go** for backend and cloud systems, with an emphasis on simple, efficient, maintainable software.
 
-- 🎯 **Current focus:** Go for backend services, cloud tooling, concurrency, and performance
+- 🎯 **Current focus:** Go and Rust for backend services, cloud tooling, concurrency, and performance
 - 🦀 **Exploring:** A growing interest in Rust and what I can build with it
 - 🛠️ **In the works:** I’m part of an early project building a native PDF parser and comparer in Rust, from scratch. More on that later...
 - 💼 **At work:** TypeScript, Node.js, React, Azure, and full-stack product delivery
