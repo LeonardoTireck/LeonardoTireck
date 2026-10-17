@@ -30,6 +30,7 @@ I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **T
 - 🦀 **Exploring:** A growing interest in Rust and what I can build with it
 - 🛠️ **In the works:** I’m part of an early project building a native PDF parser and comparer in Rust, from scratch. More on that later...
 - 💼 **At work:** TypeScript, Node.js, React, Azure, and full-stack product delivery
+- 🤖 **AI & agents:** Experience integrating agentic development workflows into production, from requirements gathering and planning to implementation and automated quality checks.
 - 🔥 **Always:** Improving delivery through containers, CI/CD, observability, and automation
 - ☁️ **AWS Certified Developer – Associate (DVA-C02)**
 - 🧱 Trained in **Clean Code & Clean Architecture**, including TDD, DDD, CQRS, Docker, RabbitMQ, and design patterns
