@@ -24,7 +24,7 @@
 
 ## About me
 
-I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **TypeScript, Node.js, React, and Azure** across the product stack. Alongside that work, my main technical focus is **Go** for backend and cloud systems, with an emphasis on simple, efficient, maintainable software.
+I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **TypeScript, Node.js, React, and Azure** across the product stack. Alongside my day-to-day work, I explore new technologies, build things out of curiosity, and enjoy making complex things simpler.
 
 - 🎯 **Current focus:** Go and Rust for backend services, cloud tooling, concurrency, and performance
 - 🦀 **Exploring:** A growing interest in Rust and what I can build with it
