@@ -28,6 +28,8 @@
 I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **TypeScript, Node.js, React, and Azure** across the product stack. Alongside that work, my main technical focus is **Go** for backend and cloud systems, with an emphasis on simple, efficient, maintainable software.
 
 - 🎯 **Current focus:** Go for backend services, cloud tooling, concurrency, and performance
+- 🦀 **Exploring:** A growing interest in Rust and what I can build with it
+- 🛠️ **In the works:** I’m part of an early project building a native PDF parser and comparer in Rust, from scratch. More on that later...
 - 💼 **At work:** TypeScript, Node.js, React, Azure, and full-stack product delivery
 - 🔥 **Always:** Improving delivery through containers, CI/CD, observability, and automation
 - ☁️ **AWS Certified Developer – Associate (DVA-C02)**
