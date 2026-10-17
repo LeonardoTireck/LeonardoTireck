@@ -68,6 +68,4 @@ I'm a Full-Stack Developer at **Coopercompany**, where I work primarily with **T
 
 ## Let's connect
 
-Get to know me at [leonardotireck.com](https://leonardotireck.com).
-
-If you'd like to talk about Go, Rust, Node.js, AI agents, backend engineering, cloud architecture, APIs, or building dependable software, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/leonardo-tireck/?locale=en_US) or by [email](mailto:leotireck@gmail.com).
+You can find me at [leonardotireck.com](https://leonardotireck.com). Say hi on [LinkedIn](https://www.linkedin.com/in/leonardo-tireck/?locale=en_US) or drop me an [email](mailto:leotireck@gmail.com).
